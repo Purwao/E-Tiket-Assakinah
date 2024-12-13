@@ -31,7 +31,7 @@
             vertical-align: top;
             padding: 20px;
             border: 1px solid #ddd;
-            border-radius: 8px;
+            /* border-radius: 8px; */
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             margin-bottom: 25px;
             margin-right: 40px;
